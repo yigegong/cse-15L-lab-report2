@@ -109,3 +109,5 @@ class ChatServer {
 }
 ```
 ### Screenshot of Running the Code
+![image](1.pic.jpg)
+![image](2.pic.jpg)
