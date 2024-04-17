@@ -142,4 +142,4 @@ class ChatServer {
    * user: ```["user","jpolitz"]```, ```["user","yash"]```
    * stringToAdd: ```"Hello"```, ```"How are you"```
    * userName: ```"jpolitz"```, ```"yash"```
-   * toReturn: ```"jpolitz: Hello\n"```, ```jpolitz: Hello\nyash: How are you``
+   * toReturn: ```"jpolitz: Hello\n"```, ```jpolitz: Hello\nyash: How are you```
