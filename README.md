@@ -137,9 +137,9 @@ class ChatServer {
    * userName: ```"yash"```
    * toReturn: ```jpolitz: Hello\nyash: How are you```
 3. Here is the list of the values for all fields before and after this request:
-   * parameters: empty string, ```[s=Hello, user=jpolitz]```
-   * str: empty string, ```[s, Hello]```
-   * user: empty string, ```[user,jpolitz]```
-   * stringToAdd: empty string, ```Hello```
-   * userName: empty string, ```jpolitz```
-   * toReturn: empty string, ```jpolitz: Hello\n```
+   * parameters: ```["s=Hello", "user=jpolitz"]```, ```["s=How are you", "user=yash"]```
+   * str: ```["s", "Hello"]```, ```["s", "How are you"]```
+   * user: ```["user","jpolitz"]```, ```["user","yash"]```
+   * stringToAdd: ```"Hello"```, ```"How are you"```
+   * userName: ```"jpolitz"```, ```"yash"```
+   * toReturn: ```"jpolitz: Hello\n"```, ```jpolitz: Hello\nyash: How are you``
