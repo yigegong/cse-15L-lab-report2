@@ -113,17 +113,17 @@ class ChatServer {
 1. The handleRequest method is called.
 2. The argument passed in is ```/add-message?s=Hello&user=jpolitz```.
    Here is the list of all fields (before colon) and their corresponding values (after colon) for this argument:
-   parameters: ```[s=Hello, user=jpolitz]```
-   str: ```[s, Hello]```
-   user: ```[user,jpolitz]```
-   stringToAdd: ```Hello```
-   userName: ```jpolitz```
-   toReturn: ```jpolitz: Hello\n```
+   * parameters: ```[s=Hello, user=jpolitz]```
+   * str: ```[s, Hello]```
+   * user: ```[user,jpolitz]```
+   * stringToAdd: ```Hello```
+   * userName: ```jpolitz```
+   * toReturn: ```jpolitz: Hello\n```
 3. Here is the list of the values for all fields before and after this request:
-   parameters: empty string, ```[s=Hello, user=jpolitz]```
-   str: empty string, ```[s, Hello]```
-   user: empty string, ```[user,jpolitz]```
-   stringToAdd: empty string, ```Hello```
-   userName: empty string, ```jpolitz```
-   toReturn: empty string, ```jpolitz: Hello\n```
+   * parameters: empty string, ```[s=Hello, user=jpolitz]```
+   * str: empty string, ```[s, Hello]```
+   * user: empty string, ```[user,jpolitz]```
+   * stringToAdd: empty string, ```Hello```
+   * userName: empty string, ```jpolitz```
+   * toReturn: empty string, ```jpolitz: Hello\n```
 ![image](2.pic.jpg)
