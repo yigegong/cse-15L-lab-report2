@@ -1,6 +1,5 @@
 # cse-15L-lab-report2
 # Part 1
- ---
 ## Code Part
 ### Server.java
 
@@ -58,7 +57,6 @@ public class Server {
     }
 }
 ```
----
 
 ### ChatServer.java
 ```
