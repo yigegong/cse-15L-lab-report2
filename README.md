@@ -2,9 +2,9 @@
 > # Part 1
 ## Code Part
 ### Server.java
+
 ```
 // A simple web server using Java's built-in HttpServer
-
 // Examples from https://dzone.com/articles/simple-http-server-in-java were useful references
 
 import java.io.IOException;
