@@ -1,6 +1,6 @@
 # cse-15L-lab-report2
-> # Part 1
----
+# Part 1
+ ---
 ## Code Part
 ### Server.java
 
@@ -145,12 +145,12 @@ class ChatServer {
    * userName: ```"jpolitz"```, ```"yash"```
    * toReturn: ```"jpolitz: Hello\n"```, ```jpolitz: Hello\nyash: How are you```
 
-> # Part 2
+# Part 2
 ---
 1. ![image](1.jpeg)
 2. ![image](2.jpeg)
 3. ![image](3.jpeg)
-> # Part 3
+# Part 3
 ---
 1. In lab 2, I learned how to connect to remote server, and how to manipulate URL by changing the query.
 2. In lab 3, I learned how to generate private and public key through which I can connect the remote server without entering my password. Also, I learned how to send files from local server to the remote server, and how to connect to the remote server on VS Code.
